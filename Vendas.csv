@@ -1,0 +1,731 @@
+﻿SKU;Dia;Mês;Ano;Tipo;Marca;Faturamento;Lucro
+SKU 353;01/01/24;1;2024;Camisa; Lacoste;R$ 181,70;R$ 84,00
+SKU 563;02/01/24;1;2024;Camisa; Lacoste;R$ 200,90;R$ 153,30
+SKU 384;03/01/24;1;2024;Casaco; Louis Vuitton;R$ 54,10;R$ 11,50
+SKU 661;04/01/24;1;2024;Camiseta;Prada;R$ 39,30;R$ 9,00
+SKU 353;05/01/24;1;2024;Sandália;Havainas;R$ 122,30;R$ 83,10
+SKU 455;06/01/24;1;2024;Boné;Hurley;R$ 49,90;R$ 11,50
+SKU 492;07/01/24;1;2024;Camiseta; Lacoste;R$ 16,70;R$ 5,30
+SKU 732;08/01/24;1;2024;Meia;Lupo;R$ 26,80;R$ 7,90
+SKU 817;09/01/24;1;2024;Boné;Hurley;R$ 96,30;R$ 19,70
+SKU 679;10/01/24;1;2024;Casaco; Louis Vuitton;R$ 229,00;R$ 108,90
+SKU 343;11/01/24;1;2024;Meia;Lupo;R$ 14,00;R$ 4,20
+SKU 744;12/01/24;1;2024;Bota;Dakota;R$ 62,60;R$ 26,80
+SKU 699;13/01/24;1;2024;Camisa; Lacoste;R$ 166,40;R$ 98,90
+SKU 362;14/01/24;1;2024;Chinelo;Havainas;R$ 32,40;R$ 8,00
+SKU 634;15/01/24;1;2024;Boné;Hurley;R$ 40,90;R$ 13,60
+SKU 195;16/01/24;1;2024;Casaco; Louis Vuitton;R$ 129,10;R$ 77,90
+SKU 725;17/01/24;1;2024;Casaco; Louis Vuitton;R$ 166,10;R$ 34,00
+SKU 853;18/01/24;1;2024;Camisa; Lacoste;R$ 22,10;R$ 6,80
+SKU 115;19/01/24;1;2024;Bota;Dakota;R$ 47,60;R$ 14,10
+SKU 513;20/01/24;1;2024;Meia;Lupo;R$ 52,80;R$ 25,10
+SKU 931;21/01/24;1;2024;Boné;Hurley;R$ 63,90;R$ 13,20
+SKU 448;22/01/24;1;2024;Meia;Lupo;R$ 24,70;R$ 6,60
+SKU 263;23/01/24;1;2024;Meia;Lupo;R$ 59,50;R$ 34,90
+SKU 228;24/01/24;1;2024;Camisa; Lacoste;R$ 54,70;R$ 10,50
+SKU 377;25/01/24;1;2024;Chinelo;Havainas;R$ 7,00;R$ 2,40
+SKU 316;26/01/24;1;2024;Camiseta;Prada;R$ 192,90;R$ 78,40
+SKU 999;27/01/24;1;2024;Camisa; Lacoste;R$ 70,40;R$ 18,70
+SKU 891;28/01/24;1;2024;Sapato;Arezzo;R$ 129,20;R$ 45,50
+SKU 532;29/01/24;1;2024;Camiseta;Prada;R$ 78,70;R$ 21,30
+SKU 494;30/01/24;1;2024;Sapato;Arezzo;R$ 134,60;R$ 71,10
+SKU 898;31/01/24;1;2024;Camisa;Lacoste;R$ 67,60;R$ 20,00
+SKU 139;01/02/24;2;2024;Boné;Adidas;R$ 18,70;R$ 3,40
+SKU 135;02/02/24;2;2024;Chinelo;Havainas;R$ 43,80;R$ 15,40
+SKU 645;03/02/24;2;2024;Camiseta;Prada;R$ 128,30;R$ 75,30
+SKU 831;04/02/24;2;2024;Chinelo;Havainas;R$ 7,80;R$ 1,00
+SKU 217;05/02/24;2;2024;Casaco; Louis Vuitton;R$ 32,80;R$ 10,10
+SKU 573;06/02/24;2;2024;Bota;Dakota;R$ 82,20;R$ 15,00
+SKU 424;07/02/24;2;2024;Camisa;Lacoste;R$ 179,10;R$ 94,60
+SKU 385;08/02/24;2;2024;Bota;Arezzo;R$ 22,90;R$ 6,20
+SKU 984;09/02/24;2;2024;Camisa;Lacoste;R$ 129,80;R$ 53,30
+SKU 552;10/02/24;2;2024;Boné;Adidas;R$ 175,50;R$ 111,20
+SKU 696;11/02/24;2;2024;Sapato;Dakota;R$ 52,30;R$ 20,20
+SKU 427;12/02/24;2;2024;Sapato;Dakota;R$ 56,20;R$ 16,60
+SKU 823;13/02/24;2;2024;Camisa;Lacoste;R$ 130,90;R$ 25,80
+SKU 643;14/02/24;2;2024;Boné;Prada;R$ 96,20;R$ 79,90
+SKU 334;15/02/24;2;2024;Sapato;Dakota;R$ 18,20;R$ 3,20
+SKU 288;16/02/24;2;2024;Camiseta;Prada;R$ 68,60;R$ 16,20
+SKU 369;17/02/24;2;2024;Camisa;Lacoste;R$ 27,10;R$ 6,80
+SKU 999;18/02/24;2;2024;Bota;Dakota;R$ 80,90;R$ 48,80
+SKU 628;19/02/24;2;2024;Bota;Dakota;R$ 156,20;R$ 67,50
+SKU 483;20/02/24;2;2024;Camisa;Lacoste;R$ 92,00;R$ 24,20
+SKU 779;21/02/24;2;2024;Camisa;Lacoste;R$ 160,20;R$ 116,40
+SKU 439;22/02/24;2;2024;Boné; Element;R$ 47,50;R$ 17,20
+SKU 186;23/02/24;2;2024;Meia;Lupo;R$ 27,20;R$ 6,20
+SKU 897;24/02/24;2;2024;Camisa;Lacoste;R$ 92,70;R$ 19,90
+SKU 524;25/02/24;2;2024;Camisa;Lacoste;R$ 79,00;R$ 20,40
+SKU 117;26/02/24;2;2024;Bota;Arezzo;R$ 109,70;R$ 51,50
+SKU 228;27/02/24;2;2024;Meia;Lupo;R$ 67,90;R$ 42,40
+SKU 935;28/02/24;2;2024;Sapato;Dakota;R$ 11,70;R$ 2,40
+SKU 885;29/02/24;3;2024;Casaco; Louis Vuitton;R$ 262,10;R$ 126,90
+SKU 658;01/03/24;3;2024;Meia;Lupo;R$ 33,20;R$ 7,10
+SKU 836;02/03/24;3;2024;Sapato;Dakota;R$ 67,70;R$ 56,20
+SKU 935;03/03/24;3;2024;Camisa;Lacoste;R$ 73,20;R$ 37,10
+SKU 627;04/03/24;3;2024;Sapato;Dakota;R$ 94,80;R$ 42,40
+SKU 411;05/03/24;3;2024;Casaco; Louis Vuitton;R$ 20,90;R$ 6,20
+SKU 545;06/03/24;3;2024;Camiseta;Prada;R$ 179,60;R$ 113,90
+SKU 426;07/03/24;3;2024;Bota;Dakota;R$ 9,10;R$ 2,40
+SKU 421;08/03/24;3;2024;Boné; Element;R$ 29,40;R$ 6,20
+SKU 982;09/03/24;3;2024;Casaco; Louis Vuitton;R$ 35,10;R$ 8,10
+SKU 447;10/03/24;3;2024;Casaco; Louis Vuitton;R$ 57,70;R$ 17,10
+SKU 748;11/03/24;3;2024;Sandália;Arezzo;R$ 26,00;R$ 7,80
+SKU 794;12/03/24;3;2024;Bota;Dakota;R$ 105,90;R$ 68,40
+SKU 879;13/03/24;3;2024;Casaco; Louis Vuitton;R$ 223,20;R$ 144,10
+SKU 815;14/03/24;3;2024;Boné; Element;R$ 65,60;R$ 12,30
+SKU 469;15/03/24;3;2024;Camisa;lacoste;R$ 35,80;R$ 7,40
+SKU 324;16/03/24;3;2024;Casaco; Louis Vuitton;R$ 30,00;R$ 8,90
+SKU 664;17/03/24;3;2024;Sapato;Dakota;R$ 46,00;R$ 13,60
+SKU 977;18/03/24;3;2024;Sapato;Arezzo;R$ 110,20;R$ 46,60
+SKU 696;19/03/24;3;2024;Camiseta;lacoste;R$ 242,20;R$ 106,60
+SKU 135;20/03/24;3;2024;Bota;Arezzo;R$ 146,30;R$ 51,50
+SKU 267;21/03/24;3;2024;Chinelo;Havainas;R$ 46,20;R$ 20,00
+SKU 194;22/03/24;3;2024;Bota;Dakota;R$ 17,70;R$ 5,60
+SKU 128;23/03/24;3;2024;Boné; Element;R$ 29,20;R$ 16,00
+SKU 636;24/03/24;3;2024;Camisa;Lacoste;R$ 112,50;R$ 23,30
+SKU 316;25/03/24;3;2024;Casaco; Louis Vuitton;R$ 284,90;R$ 137,90
+SKU 968;26/03/24;3;2024;Casaco; Louis Vuitton;R$ 242,60;R$ 78,90
+SKU 564;27/03/24;3;2024;Casaco; Louis Vuitton;R$ 253,50;R$ 92,70
+SKU 367;28/03/24;3;2024;Bota;Arezzo;R$ 10,90;R$ 2,50
+SKU 299;29/03/24;3;2024;Boné; Element;R$ 85,40;R$ 50,80
+SKU 557;30/03/24;3;2024;Camiseta;Prada;R$ 231,50;R$ 112,10
+SKU 161;31/03/24;4;2024;Boné; Element;R$ 15,50;R$ 4,80
+SKU 151;01/04/24;4;2024;Chinelo;Havainas;R$ 22,00;R$ 5,00
+SKU 951;02/04/24;4;2024;Camisa;Lacoste;R$ 233,50;R$ 92,50
+SKU 932;03/04/24;4;2024;Bota;Arezzo;R$ 90,60;R$ 47,90
+SKU 172;04/04/24;4;2024;Casaco; Louis Vuitton;R$ 46,80;R$ 10,80
+SKU 561;05/04/24;4;2024;Casaco; Louis Vuitton;R$ 366,60;R$ 178,80
+SKU 262;06/04/24;4;2024;Camiseta;Prada;R$ 110,90;R$ 24,60
+SKU 236;07/04/24;4;2024;Chinelo;Havainas;R$ 12,50;R$ 4,90
+SKU 729;08/04/24;4;2024;Meia;Lupo;R$ 39,30;R$ 6,20
+SKU 212;09/04/24;4;2024;Meia;Trifil;R$ 95,20;R$ 59,40
+SKU 567;10/04/24;4;2024;Sandália;Arezzo;R$ 207,60;R$ 158,50
+SKU 625;11/04/24;4;2024;Chinelo;Havainas;R$ 10,10;R$ 2,10
+SKU 873;12/04/24;4;2024;Meia;Trifil;R$ 26,30;R$ 14,40
+SKU 873;13/04/24;4;2024;Casaco; Louis Vuitton;R$ 54,30;R$ 12,50
+SKU 259;14/04/24;4;2024;Boné; Element;R$ 165,40;R$ 87,40
+SKU 789;15/04/24;4;2024;Casaco; Louis Vuitton;R$ 54,30;R$ 8,00
+SKU 255;16/04/24;4;2024;Camisa;Lacoste;R$ 302,60;R$ 147,60
+SKU 244;17/04/24;4;2024;Sandália;Dakota;R$ 25,00;R$ 5,80
+SKU 195;18/04/24;4;2024;Meia;Trifil;R$ 54,20;R$ 14,80
+SKU 851;19/04/24;4;2024;Sapato;Arezzo;R$ 25,60;R$ 8,40
+SKU 313;20/04/24;4;2024;Camiseta;Prada;R$ 36,40;R$ 10,90
+SKU 633;21/04/24;4;2024;Sapato;Dakota;R$ 25,00;R$ 5,70
+SKU 881;22/04/24;4;2024;Meia;Trifil;R$ 9,80;R$ 2,30
+SKU 699;23/04/24;4;2024;Chinelo;Havainas;R$ 7,00;R$ 1,80
+SKU 772;24/04/24;4;2024;Camisa;Prada;R$ 211,20;R$ 99,20
+SKU 918;25/04/24;4;2024;Boné; Element;R$ 163,30;R$ 50,30
+SKU 529;26/04/24;4;2024;Boné; Element;R$ 13,70;R$ 3,20
+SKU 964;27/04/24;4;2024;Sapato;Arezzo;R$ 95,40;R$ 50,40
+SKU 881;28/04/24;4;2024;Sandália;Dakota;R$ 36,60;R$ 10,00
+SKU 474;29/04/24;4;2024;Camisa;Prada;R$ 35,80;R$ 6,40
+SKU 588;30/04/24;5;2024;Casaco; Louis Vuitton;R$ 44,20;R$ 9,20
+SKU 384;01/05/24;5;2024;Sandália;Arezzo;R$ 33,80;R$ 4,20
+SKU 262;02/05/24;5;2024;Meia;Trifil;R$ 12,10;R$ 2,80
+SKU 126;03/05/24;5;2024;Camiseta;Prada;R$ 93,10;R$ 25,40
+SKU 666;04/05/24;5;2024;Bota;Dakota;R$ 53,00;R$ 15,70
+SKU 129;05/05/24;5;2024;Sapato;Dakota;R$ 84,50;R$ 26,00
+SKU 138;06/05/24;5;2024;Camisa;Prada;R$ 196,90;R$ 138,70
+SKU 797;07/05/24;5;2024;Camiseta;Prada;R$ 39,10;R$ 8,20
+SKU 761;08/05/24;5;2024;Meia;Trifil;R$ 36,00;R$ 15,30
+SKU 959;09/05/24;5;2024;Bota;Arezzo;R$ 15,00;R$ 4,60
+SKU 649;10/05/24;5;2024;Camisa;Prada;R$ 130,90;R$ 25,80
+SKU 459;11/05/24;5;2024;Meia;Trifil;R$ 20,40;R$ 6,50
+SKU 749;12/05/24;5;2024;Casaco; Louis Vuitton;R$ 34,30;R$ 9,90
+SKU 788;13/05/24;5;2024;Sandália;Dakota;R$ 308,60;R$ 163,00
+SKU 357;14/05/24;5;2024;Meia;Trifil;R$ 11,10;R$ 1,60
+SKU 274;15/05/24;5;2024;Meia;Trifil;R$ 28,00;R$ 11,80
+SKU 449;16/05/24;5;2024;Chinelo; Louis Vuitton;R$ 5,20;R$ 1,40
+SKU 149;17/05/24;5;2024;Camisa; Louis Vuitton;R$ 227,10;R$ 132,00
+SKU 544;18/05/24;5;2024;Casaco; Louis Vuitton;R$ 42,90;R$ 9,90
+SKU 619;19/05/24;5;2024;Camisa;Aramis;R$ 40,10;R$ 7,20
+SKU 935;20/05/24;5;2024;Chinelo;Havainas;R$ 16,70;R$ 9,20
+SKU 866;21/05/24;5;2024;Casaco; Louis Vuitton;R$ 32,90;R$ 9,00
+SKU 797;22/05/24;5;2024;Boné; Element;R$ 63,90;R$ 13,20
+SKU 812;23/05/24;5;2024;Boné; Element;R$ 28,10;R$ 7,20
+SKU 732;24/05/24;5;2024;Sandália;Dakota;R$ 25,00;R$ 9,40
+SKU 481;25/05/24;5;2024;Casaco; Louis Vuitton;R$ 60,80;R$ 10,80
+SKU 633;26/05/24;5;2024;Boné;Hurley;R$ 22,50;R$ 6,50
+SKU 137;27/05/24;5;2024;Casaco; Louis Vuitton;R$ 136,30;R$ 30,20
+SKU 854;28/05/24;5;2024;Camisa;Aramis;R$ 137,60;R$ 114,20
+SKU 127;29/05/24;5;2024;Camiseta; Tommy Hilfiger;R$ 19,10;R$ 7,60
+SKU 954;30/05/24;5;2024;Camiseta; Tommy Hilfiger;R$ 194,20;R$ 85,50
+SKU 529;31/05/24;5;2024;Camisa;Aramis;R$ 261,00;R$ 149,40
+SKU 737;01/06/24;5;2024;Meia;Trifil;R$ 63,40;R$ 19,50
+SKU 379;02/06/24;5;2024;Boné;Hurley;R$ 128,50;R$ 74,70
+SKU 417;03/06/24;6;2024;Camisa;Aramis;R$ 74,60;R$ 30,40
+SKU 179;04/06/24;6;2024;Camisa;Aramis;R$ 253,50;R$ 103,00
+SKU 163;05/06/24;6;2024;Camisa;Aramis;R$ 113,50;R$ 19,60
+SKU 351;06/06/24;6;2024;Camisa;Aramis;R$ 168,30;R$ 152,40
+SKU 585;07/06/24;6;2024;Casaco; Louis Vuitton;R$ 80,50;R$ 30,60
+SKU 947;08/06/24;6;2024;Camiseta; Tommy Hilfiger;R$ 115,10;R$ 60,80
+SKU 994;09/06/24;6;2024;Boné; Element;R$ 81,80;R$ 26,60
+SKU 831;10/06/24;6;2024;Camisa;Aramis;R$ 31,80;R$ 11,00
+SKU 438;11/06/24;6;2024;Meia;Trifil;R$ 42,60;R$ 12,60
+SKU 391;12/06/24;6;2024;Bota;Dakota;R$ 69,00;R$ 17,00
+SKU 669;13/06/24;6;2024;Bota;Arezzo;R$ 40,90;R$ 13,10
+SKU 927;14/06/24;6;2024;Casaco; Louis Vuitton;R$ 99,40;R$ 46,20
+SKU 482;15/06/24;6;2024;Meia;Trifil;R$ 60,60;R$ 48,00
+SKU 418;16/06/24;6;2024;Casaco;Nexybrand;R$ 159,40;R$ 126,40
+SKU 972;17/06/24;6;2024;Camiseta; Tommy Hilfiger;R$ 160,30;R$ 103,50
+SKU 733;18/06/24;6;2024;Camisa;Aramis;R$ 56,20;R$ 11,90
+SKU 512;19/06/24;6;2024;Chinelo;Havainas;R$ 5,00;R$ 1,70
+SKU 593;20/06/24;6;2024;Casaco;Nexybrand;R$ 152,60;R$ 80,60
+SKU 586;21/06/24;6;2024;Camisa;Aramis;R$ 209,10;R$ 165,70
+SKU 334;22/06/24;6;2024;Meia;Trifil;R$ 29,00;R$ 11,80
+SKU 559;23/06/24;6;2024;Casaco;Nexybrand;R$ 59,30;R$ 8,00
+SKU 664;24/06/24;6;2024;Meia;J Colour;R$ 65,00;R$ 21,80
+SKU 241;25/06/24;6;2024;Meia;J Colour;R$ 16,80;R$ 2,40
+SKU 921;26/06/24;6;2024;Casaco;Nexybrand;R$ 23,90;R$ 6,90
+SKU 223;27/06/24;6;2024;Bota;Dakota;R$ 42,60;R$ 12,60
+SKU 844;28/06/24;6;2024;Camisa;Aramis;R$ 121,20;R$ 20,90
+SKU 858;29/06/24;6;2024;Chinelo;havainas;R$ 67,70;R$ 23,80
+SKU 499;30/06/24;6;2024;Camiseta; Tommy Hilfiger;R$ 17,20;R$ 3,10
+SKU 682;01/07/24;6;2024;Bota;Arezzo;R$ 124,70;R$ 43,90
+SKU 418;02/07/24;6;2024;Camisa;Aramis;R$ 49,50;R$ 11,40
+SKU 694;03/07/24;6;2024;Camiseta; Tommy Hilfiger;R$ 252,70;R$ 123,20
+SKU 151;04/07/24;6;2024;Sandália;Dakota;R$ 28,10;R$ 6,50
+SKU 123;05/07/24;6;2024;Casaco;Nexybrand;R$ 42,30;R$ 9,00
+SKU 494;06/07/24;6;2024;Sandália;Arezzo;R$ 135,30;R$ 132,70
+SKU 675;07/07/24;6;2024;Meia;J Colour;R$ 31,90;R$ 7,40
+SKU 784;08/07/24;6;2024;Bota;Dakota;R$ 44,30;R$ 7,60
+SKU 635;09/07/24;7;2024;Meia;J Colour;R$ 17,80;R$ 3,70
+SKU 629;10/07/24;7;2024;Meia;J Colour;R$ 11,20;R$ 3,50
+SKU 688;11/07/24;7;2024;Casaco;Nexybrand;R$ 44,30;R$ 7,40
+SKU 581;12/07/24;7;2024;Camisa;Aramis;R$ 48,20;R$ 17,80
+SKU 111;13/07/24;7;2024;Camisa;Aramis;R$ 114,70;R$ 31,30
+SKU 451;14/07/24;7;2024;Bota;Dakota;R$ 53,60;R$ 14,50
+SKU 536;15/07/24;7;2024;Boné;Hurley;R$ 120,20;R$ 99,80
+SKU 543;16/07/24;7;2024;Sapato;Dakota;R$ 53,70;R$ 15,80
+SKU 731;17/07/24;7;2024;Boné;Hurley;R$ 113,10;R$ 93,80
+SKU 628;18/07/24;7;2024;Camisa;Aramis;R$ 45,10;R$ 12,40
+SKU 355;19/07/24;7;2024;Chinelo;Havainas;R$ 6,20;R$ 1,50
+SKU 418;20/07/24;7;2024;Sapato;Arezzo;R$ 51,30;R$ 9,70
+SKU 963;21/07/24;7;2024;Camisa;Aramis;R$ 42,90;R$ 11,30
+SKU 287;22/07/24;7;2024;Bota;Dakota;R$ 16,40;R$ 2,90
+SKU 257;23/07/24;7;2024;Casaco;Nexybrand;R$ 54,10;R$ 9,60
+SKU 549;24/07/24;7;2024;Camisa;Aramis;R$ 66,40;R$ 16,60
+SKU 671;25/07/24;7;2024;Sapato;Arezzo;R$ 87,70;R$ 42,10
+SKU 385;26/07/24;7;2024;Camisa;Aramis;R$ 90,50;R$ 24,50
+SKU 951;27/07/24;7;2024;Boné;Adidas;R$ 27,10;R$ 4,20
+SKU 567;28/07/24;7;2024;Sandália;arezzo;R$ 220,50;R$ 81,60
+SKU 281;29/07/24;7;2024;Casaco;Nexybrand;R$ 198,20;R$ 76,20
+SKU 925;30/07/24;7;2024;Meia;J Colour;R$ 10,90;R$ 3,30
+SKU 222;31/07/24;7;2024;Sandália;Dakota;R$ 15,30;R$ 3,50
+SKU 736;01/08/24;7;2024;Camiseta; Tommy Hilfiger;R$ 210,10;R$ 92,50
+SKU 761;02/08/24;7;2024;Sapato;Arezzo;R$ 105,20;R$ 61,20
+SKU 439;03/08/24;7;2024;Camiseta; Tommy Hilfiger;R$ 18,00;R$ 4,60
+SKU 775;04/08/24;7;2024;Camiseta; Tommy Hilfiger;R$ 47,70;R$ 18,30
+SKU 131;05/08/24;8;2024;Camisa;Aramis;R$ 94,30;R$ 19,50
+SKU 759;06/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 43,80;R$ 6,20
+SKU 592;07/08/24;8;2024;Casaco;Nexybrand;R$ 203,50;R$ 89,60
+SKU 669;08/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 51,70;R$ 14,20
+SKU 747;09/08/24;8;2024;Sapato;Dakota;R$ 51,10;R$ 11,80
+SKU 579;10/08/24;8;2024;Sapato;Arezzo;R$ 12,50;R$ 3,60
+SKU 648;11/08/24;8;2024;Bota;Dakota;R$ 15,10;R$ 5,30
+SKU 767;12/08/24;8;2024;Camisa;Aramis;R$ 37,40;R$ 11,90
+SKU 566;13/08/24;8;2024;Camisa;Aramis;R$ 137,00;R$ 72,40
+SKU 756;14/08/24;8;2024;Camisa;Ellus;R$ 27,90;R$ 6,40
+SKU 945;15/08/24;8;2024;Camisa;Ellus;R$ 230,90;R$ 144,20
+SKU 529;16/08/24;8;2024;Bota;Dakota;R$ 27,30;R$ 10,10
+SKU 493;17/08/24;8;2024;Casaco;Nexybrand;R$ 38,60;R$ 10,90
+SKU 663;18/08/24;8;2024;Sandália;Dakota;R$ 21,60;R$ 5,00
+SKU 167;19/08/24;8;2024;Meia;J Colour;R$ 18,20;R$ 4,20
+SKU 179;20/08/24;8;2024;Chinelo;Havainas;R$ 49,20;R$ 31,80
+SKU 179;21/08/24;8;2024;Bota;Dakota;R$ 12,30;R$ 3,30
+SKU 352;22/08/24;8;2024;Casaco;Nexybrand;R$ 37,40;R$ 5,00
+SKU 523;23/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 53,60;R$ 15,80
+SKU 296;24/08/24;8;2024;Camisa;Ellus;R$ 33,40;R$ 8,40
+SKU 517;25/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 47,30;R$ 16,00
+SKU 584;26/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 196,80;R$ 56,00
+SKU 417;27/08/24;8;2024;Sapato;Arezzo;R$ 12,40;R$ 4,90
+SKU 921;28/08/24;8;2024;Sandália;Arezzo;R$ 43,70;R$ 5,90
+SKU 233;29/08/24;8;2024;Camiseta; Tommy Hilfiger;R$ 97,00;R$ 28,70
+SKU 231;30/08/24;8;2024;Sapato;Arezzo;R$ 65,00;R$ 10,40
+SKU 128;31/08/24;8;2024;Sandália;Dakota;R$ 21,60;R$ 8,10
+SKU 295;01/09/24;8;2024;Meia;Muvin;R$ 74,80;R$ 42,80
+SKU 354;02/09/24;8;2024;Chinelo;havainas;R$ 66,10;R$ 29,10
+SKU 581;03/09/24;8;2024;Casaco;Nexybrand;R$ 151,30;R$ 24,10
+SKU 945;04/09/24;8;2024;Bota;Arezzo;R$ 83,00;R$ 43,80
+SKU 131;05/09/24;8;2024;Camiseta; Tommy Hilfiger;R$ 102,10;R$ 53,90
+SKU 817;06/09/24;9;2024;Bota;Arezzo;R$ 40,90;R$ 16,10
+SKU 494;07/09/24;9;2024;Meia;Muvin;R$ 32,40;R$ 8,60
+SKU 422;08/09/24;9;2024;Casaco;Nexybrand;R$ 164,30;R$ 48,60
+SKU 597;09/09/24;9;2024;Meia;Muvin;R$ 18,70;R$ 2,90
+SKU 872;10/09/24;9;2024;Boné;Adidas;R$ 34,50;R$ 7,90
+SKU 331;11/09/24;9;2024;Camiseta; Tommy Hilfiger;R$ 41,50;R$ 5,90
+SKU 146;12/09/24;9;2024;Boné;Hurley;R$ 21,80;R$ 3,50
+SKU 981;13/09/24;9;2024;Boné;Hurley;R$ 117,00;R$ 49,40
+SKU 594;14/09/24;9;2024;Boné;Hurley;R$ 171,00;R$ 90,40
+SKU 784;15/09/24;9;2024;Sapato;arezzo;R$ 16,90;R$ 2,10
+SKU 175;16/09/24;9;2024;Boné;Adidas;R$ 18,60;R$ 4,90
+SKU 578;17/09/24;9;2024;Boné;Hurley;R$ 28,30;R$ 3,50
+SKU 767;18/09/24;9;2024;Camisa;Ellus;R$ 280,30;R$ 113,90
+SKU 137;19/09/24;9;2024;Chinelo;havainas;R$ 31,50;R$ 16,60
+SKU 415;20/09/24;9;2024;Camisa;Ellus;R$ 18,70;R$ 4,30
+SKU 984;21/09/24;9;2024;Boné;Hurley;R$ 35,20;R$ 16,40
+SKU 556;22/09/24;9;2024;Camisa;Ellus;R$ 136,40;R$ 33,00
+SKU 854;23/09/24;9;2024;Camisa;Ellus;R$ 102,20;R$ 26,90
+SKU 763;24/09/24;9;2024;Casaco;Nexybrand;R$ 179,80;R$ 106,80
+SKU 312;25/09/24;9;2024;Meia;Muvin;R$ 10,80;R$ 2,50
+SKU 162;26/09/24;9;2024;Sapato;Dakota;R$ 75,40;R$ 45,50
+SKU 745;27/09/24;9;2024;Bota;Arezzo;R$ 35,20;R$ 15,10
+SKU 523;28/09/24;9;2024;Chinelo;havainas;R$ 4,80;R$ 1,30
+SKU 176;29/09/24;9;2024;Chinelo;havainas;R$ 20,20;R$ 5,50
+SKU 497;30/09/24;9;2024;Sandália;Arezzo;R$ 264,60;R$ 139,80
+SKU 273;01/10/24;9;2024;Meia;Muvin;R$ 74,40;R$ 43,20
+SKU 513;02/10/24;9;2024;Casaco;Nexybrand;R$ 44,50;R$ 8,00
+SKU 167;03/10/24;9;2024;Sandália;Dakota;R$ 40,00;R$ 10,90
+SKU 727;04/10/24;9;2024;Boné;Hurley;R$ 124,70;R$ 65,90
+SKU 775;05/10/24;9;2024;Camisa;Ellus;R$ 144,20;R$ 83,80
+SKU 482;06/10/24;9;2024;Camiseta; Tommy Hilfiger;R$ 22,90;R$ 5,70
+SKU 725;07/10/24;9;2024;Sapato;Dakota;R$ 12,10;R$ 3,20
+SKU 362;08/10/24;9;2024;Sandália;Dakota;R$ 35,60;R$ 11,80
+SKU 343;09/10/24;9;2024;Boné;Hurley;R$ 58,30;R$ 10,10
+SKU 477;10/10/24;10;2024;Boné;Hurley;R$ 102,40;R$ 92,80
+SKU 966;11/10/24;10;2024;Casaco;Nexybrand;R$ 20,90;R$ 5,50
+SKU 897;12/10/24;10;2024;Camiseta; Tommy Hilfiger;R$ 21,00;R$ 5,30
+SKU 479;13/10/24;10;2024;Camisa;Lacoste;R$ 127,00;R$ 31,80
+SKU 938;14/10/24;10;2024;Camiseta; Tommy Hilfiger;R$ 76,10;R$ 30,00
+SKU 272;15/10/24;10;2024;Bota;Arezzo;R$ 14,60;R$ 4,30
+SKU 998;16/10/24;10;2024;Sapato;Arezzo;R$ 12,20;R$ 3,10
+SKU 645;17/10/24;10;2024;Chinelo;havainas;R$ 10,10;R$ 3,00
+SKU 622;18/10/24;10;2024;Bota;Arezzo;R$ 11,80;R$ 3,10
+SKU 145;19/10/24;10;2024;Meia;Muvin;R$ 77,90;R$ 45,70
+SKU 849;20/10/24;10;2024;Sandália;Dakota;R$ 180,10;R$ 95,10
+SKU 497;21/10/24;10;2024;Camiseta; Tommy Hilfiger;R$ 162,10;R$ 52,70
+SKU 992;22/10/24;10;2024;Sapato;Dakota;R$ 15,40;R$ 4,40
+SKU 375;23/10/24;10;2024;Chinelo;havainas;R$ 13,10;R$ 2,80
+SKU 454;24/10/24;10;2024;Camisa;Lacoste;R$ 106,30;R$ 29,00
+SKU 418;25/10/24;10;2024;Camisa;Ellus;R$ 102,70;R$ 25,30
+SKU 253;26/10/24;10;2024;Sapato;Arezzo;R$ 57,60;R$ 30,50
+SKU 382;27/10/24;10;2024;Camiseta; Tommy Hilfiger;R$ 24,00;R$ 5,00
+SKU 226;28/10/24;10;2024;Camisa;Ellus;R$ 179,00;R$ 121,60
+SKU 374;29/10/24;10;2024;Sandália;arezzo;R$ 38,50;R$ 7,10
+SKU 752;30/10/24;10;2024;Sandália;Dakota;R$ 33,30;R$ 10,60
+SKU 144;31/10/24;10;2024;Sapato;Dakota;R$ 29,50;R$ 6,10
+SKU 628;01/11/24;10;2024;Bota;Dakota;R$ 14,30;R$ 2,10
+SKU 768;02/11/24;10;2024;Camiseta; Tommy Hilfiger;R$ 23,80;R$ 6,10
+SKU 477;03/11/24;10;2024;Sandália;arezzo;R$ 20,80;R$ 3,40
+SKU 879;04/11/24;10;2024;Boné;Hurley;R$ 33,40;R$ 16,00
+SKU 276;05/11/24;10;2024;Boné;Hurley;R$ 82,80;R$ 68,80
+SKU 943;06/11/24;10;2024;Boné;Hurley;R$ 128,50;R$ 61,10
+SKU 147;07/11/24;10;2024;Casaco;Nexybrand;R$ 215,60;R$ 164,60
+SKU 737;08/11/24;10;2024;Camisa;Ellus;R$ 144,30;R$ 76,20
+SKU 326;09/11/24;11;2024;Chinelo;havainas;R$ 33,90;R$ 19,90
+SKU 742;10/11/24;11;2024;Sapato;Dakota;R$ 16,80;R$ 3,00
+SKU 721;11/11/24;11;2024;Camisa;Ellus;R$ 127,80;R$ 41,60
+SKU 121;12/11/24;11;2024;Bota;Arezzo;R$ 39,10;R$ 7,40
+SKU 695;13/11/24;11;2024;Chinelo;havainas;R$ 13,10;R$ 2,50
+SKU 827;14/11/24;11;2024;Bota;Arezzo;R$ 54,70;R$ 14,60
+SKU 969;15/11/24;11;2024;Bota;Dakota;R$ 40,70;R$ 15,50
+SKU 313;16/11/24;11;2024;Camiseta; Tommy Hilfiger;R$ 42,60;R$ 6,10
+SKU 889;17/11/24;11;2024;Camisa;Ellus;R$ 206,00;R$ 99,80
+SKU 437;18/11/24;11;2024;Boné;Hurley;R$ 118,40;R$ 116,20
+SKU 444;19/11/24;11;2024;Camisa;Ellus;R$ 40,10;R$ 7,20
+SKU 231;20/11/24;11;2024;Chinelo;havainas;R$ 16,70;R$ 7,20
+SKU 547;21/11/24;11;2024;Bota;Dakota;R$ 143,40;R$ 82,70
+SKU 424;22/11/24;11;2024;Boné;Dakota;R$ 25,10;R$ 8,50
+SKU 531;23/11/24;11;2024;Sandália;Dakota;R$ 48,60;R$ 9,50
+SKU 642;24/11/24;11;2024;Meia;Muvin;R$ 18,20;R$ 2,60
+SKU 291;25/11/24;11;2024;Camisa;Ellus;R$ 185,10;R$ 78,20
+SKU 683;26/11/24;11;2024;Camiseta; Tommy Hilfiger;R$ 201,80;R$ 117,30
+SKU 888;27/11/24;11;2024;Sapato;Dakota;R$ 33,60;R$ 13,60
+SKU 961;28/11/24;11;2024;Boné;Hurley;R$ 72,00;R$ 18,00
+SKU 568;29/11/24;11;2024;Bota;Arezzo;R$ 31,30;R$ 7,30
+SKU 269;30/11/24;11;2024;Chinelo;havainas;R$ 9,10;R$ 4,10
+SKU 478;01/12/24;11;2024;Camiseta; Tommy Hilfiger;R$ 51,00;R$ 15,10
+SKU 637;02/12/24;11;2024;Boné;Hurley;R$ 166,50;R$ 64,00
+SKU 279;03/12/24;11;2024;Sapato;Dakota;R$ 11,60;R$ 4,60
+SKU 521;04/12/24;11;2024;Camisa;Ellus;R$ 32,80;R$ 9,70
+SKU 656;05/12/24;11;2024;Boné;Hurley;R$ 23,40;R$ 3,20
+SKU 199;06/12/24;11;2024;Casaco;Nexybrand;R$ 94,30;R$ 41,90
+SKU 948;07/12/24;11;2024;Bota;Dakota;R$ 158,50;R$ 64,40
+SKU 499;08/12/24;11;2024;Boné;Hurley;R$ 27,50;R$ 6,40
+SKU 164;09/12/24;12;2024;Camisa;Ellus;R$ 77,00;R$ 27,80
+SKU 686;10/12/24;12;2024;Casaco;Nexybrand;R$ 372,10;R$ 136,10
+SKU 544;11/12/24;12;2024;Camiseta; Tommy Hilfiger;R$ 15,30;R$ 3,10
+SKU 963;12/12/24;12;2024;Chinelo;havainas;R$ 60,20;R$ 28,90
+SKU 453;13/12/24;12;2024;Casaco;Nexybrand;R$ 21,80;R$ 7,90
+SKU 293;14/12/24;12;2024;Boné;Hurley;R$ 81,80;R$ 29,00
+SKU 287;15/12/24;12;2024;Meia;Muvin;R$ 67,90;R$ 19,30
+SKU 343;16/12/24;12;2024;Sandália;Dakota;R$ 43,30;R$ 5,40
+SKU 523;17/12/24;12;2024;Boné;Adidas;R$ 186,10;R$ 71,50
+SKU 993;18/12/24;12;2024;Meia;Muvin;R$ 15,80;R$ 3,60
+SKU 119;19/12/24;12;2024;Sandália;Dakota;R$ 15,30;R$ 3,50
+SKU 255;20/12/24;12;2024;Bota;arezzo;R$ 91,60;R$ 48,40
+SKU 596;21/12/24;12;2024;Sapato;arezzo;R$ 82,80;R$ 60,20
+SKU 459;22/12/24;12;2024;Sandália;arezzo;R$ 48,70;R$ 9,40
+SKU 989;23/12/24;12;2024;Sapato;Dakota;R$ 19,50;R$ 4,10
+SKU 872;24/12/24;12;2024;Sapato;Dakota;R$ 18,30;R$ 6,10
+SKU 255;25/12/24;12;2024;Sapato;Dakota;R$ 18,30;R$ 5,60
+SKU 118;26/12/24;12;2024;Casaco;Nexybrand;R$ 40,60;R$ 10,50
+SKU 459;27/12/24;12;2024;Camisa;Ellus;R$ 204,60;R$ 108,10
+SKU 256;28/12/24;12;2024;Sapato;Dakota;R$ 55,00;R$ 32,70
+SKU 663;29/12/24;12;2024;Chinelo;havainas;R$ 33,70;R$ 10,80
+SKU 733;30/12/24;12;2024;Chinelo;havainas;R$ 12,20;R$ 2,00
+SKU 478;31/12/24;12;2024;Meia;Muvin;R$ 18,20;R$ 6,20
+SKU 361;01/01/25;12;2025;Camisa;Ellus;R$ 268,60;R$ 103,20
+SKU 549;02/01/25;12;2025;Sandália;Dakota;R$ 52,80;R$ 12,20
+SKU 466;03/01/25;12;2025;Chinelo;havainas;R$ 15,40;R$ 6,80
+SKU 681;04/01/25;12;2025;Sapato;Dakota;R$ 8,30;R$ 1,70
+SKU 256;05/01/25;12;2025;Camiseta; Tommy Hilfiger;R$ 127,90;R$ 23,30
+SKU 757;06/01/25;12;2025;Casaco;Nexybrand;R$ 267,10;R$ 141,10
+SKU 367;07/01/25;12;2025;Camisa;Ellus;R$ 82,50;R$ 24,40
+SKU 185;08/01/25;1;2025;Boné;Adidas;R$ 38,50;R$ 6,80
+SKU 167;09/01/25;1;2025;Boné;Hurley;R$ 20,60;R$ 3,40
+SKU 486;10/01/25;1;2025;Meia;Muvin;R$ 9,80;R$ 2,30
+SKU 567;11/01/25;1;2025;Casaco;Nexybrand;R$ 258,60;R$ 109,30
+SKU 824;12/01/25;1;2025;Boné;Hurley;R$ 132,80;R$ 46,80
+SKU 811;13/01/25;1;2025;Camisa;Ellus;R$ 187,80;R$ 57,90
+SKU 162;14/01/25;1;2025;Meia;Muvin;R$ 15,00;R$ 2,00
+SKU 986;15/01/25;1;2025;Camiseta; Tommy Hilfiger;R$ 20,90;R$ 5,80
+SKU 798;16/01/25;1;2025;Camisa;Ellus;R$ 30,40;R$ 8,40
+SKU 446;17/01/25;1;2025;Bota;Dakota;R$ 33,80;R$ 4,20
+SKU 975;18/01/25;1;2025;Bota;Dakota;R$ 10,90;R$ 2,50
+SKU 138;19/01/25;1;2025;Boné;Hurley;R$ 38,20;R$ 12,90
+SKU 536;20/01/25;1;2025;Camisa;Ellus;R$ 232,40;R$ 135,10
+SKU 529;21/01/25;1;2025;Casaco;Nexybrand;R$ 69,30;R$ 23,00
+SKU 134;22/01/25;1;2025;Camisa;Ellus;R$ 264,60;R$ 151,50
+SKU 437;23/01/25;1;2025;Camisa;lacoste;R$ 78,80;R$ 23,30
+SKU 819;24/01/25;1;2025;Sapato;Dakota;R$ 106,00;R$ 44,80
+SKU 412;25/01/25;1;2025;Bota;Dakota;R$ 85,80;R$ 17,60
+SKU 839;26/01/25;1;2025;Sapato;arezzo;R$ 13,80;R$ 2,90
+SKU 882;27/01/25;1;2025;Bota;arezzo;R$ 17,20;R$ 4,00
+SKU 316;28/01/25;1;2025;Camisa;Ellus;R$ 24,60;R$ 6,80
+SKU 164;29/01/25;1;2025;Meia;Muvin;R$ 107,50;R$ 48,10
+SKU 267;30/01/25;1;2025;Sandália;Dakota;R$ 28,30;R$ 4,50
+SKU 562;31/01/25;1;2025;Camiseta; Tommy Hilfiger;R$ 164,70;R$ 87,00
+SKU 865;01/02/25;1;2025;Sandália;Dakota;R$ 178,60;R$ 65,30
+SKU 377;02/02/25;1;2025;Camisa;Ellus;R$ 74,60;R$ 29,40
+SKU 491;03/02/25;1;2025;Camiseta; Tommy Hilfiger;R$ 18,00;R$ 4,10
+SKU 916;04/02/25;1;2025;Sandália;Dakota;R$ 160,30;R$ 84,70
+SKU 996;05/02/25;1;2025;Camiseta; Tommy Hilfiger;R$ 124,70;R$ 94,10
+SKU 374;06/02/25;1;2025;Sapato;arezzo;R$ 33,80;R$ 13,30
+SKU 591;07/02/25;1;2025;Sandália;arezzo;R$ 40,00;R$ 6,90
+SKU 898;08/02/25;1;2025;Camiseta; Tommy Hilfiger;R$ 55,70;R$ 16,50
+SKU 141;09/02/25;1;2025;Camisa;Ellus;R$ 67,70;R$ 18,00
+SKU 249;10/02/25;1;2025;Bota;arezzo;R$ 33,80;R$ 6,60
+SKU 347;11/02/25;1;2025;Boné;Hurley;R$ 36,50;R$ 6,50
+SKU 717;12/02/25;1;2025;Chinelo;havainas;R$ 40,40;R$ 21,40
+SKU 619;13/02/25;1;2025;Boné;Hurley;R$ 18,90;R$ 4,80
+SKU 429;14/02/25;1;2025;Boné;Hurley;R$ 31,40;R$ 11,60
+SKU 676;15/02/25;1;2025;Bota;arezzo;R$ 92,50;R$ 48,90
+SKU 936;16/02/25;1;2025;Meia;Muvin;R$ 93,50;R$ 34,20
+SKU 259;17/02/25;1;2025;Meia;Muvin;R$ 54,20;R$ 12,30
+SKU 738;18/02/25;1;2025;Camisa;Ellus;R$ 29,50;R$ 6,80
+SKU 639;19/02/25;2;2025;Casaco;Nexybrand;R$ 173,60;R$ 132,50
+SKU 245;20/02/25;2;2025;Sandália;Dakota;R$ 26,20;R$ 8,70
+SKU 954;21/02/25;2;2025;Casaco;Nexybrand;R$ 100,00;R$ 44,40
+SKU 798;22/02/25;2;2025;Camisa;Ellus;R$ 42,10;R$ 7,60
+SKU 414;23/02/25;2;2025;Camiseta; Tommy Hilfiger;R$ 29,10;R$ 6,70
+SKU 144;24/02/25;2;2025;Boné;Hurley;R$ 30,80;R$ 7,70
+SKU 225;25/02/25;2;2025;Camisa;Ellus;R$ 24,30;R$ 8,40
+SKU 122;26/02/25;2;2025;Camisa;lacoste;R$ 206,10;R$ 141,60
+SKU 711;27/02/25;2;2025;Camisa;Ellus;R$ 156,50;R$ 74,40
+SKU 339;28/02/25;3;2025;Camisa;lacoste;R$ 211,20;R$ 136,40
+SKU 888;01/03/25;3;2025;Bota;Dakota;R$ 55,40;R$ 9,60
+SKU 264;02/03/25;3;2025;Meia;Muvin;R$ 9,50;R$ 2,40
+SKU 757;03/03/25;3;2025;Bota;Dakota;R$ 36,30;R$ 19,90
+SKU 165;04/03/25;3;2025;Sandália;arezzo;R$ 40,60;R$ 7,50
+SKU 543;05/03/25;3;2025;Casaco;Nexybrand;R$ 176,40;R$ 104,90
+SKU 655;06/03/25;3;2025;Camisa;lacoste;R$ 142,70;R$ 45,80
+SKU 566;07/03/25;3;2025;Sapato;arezzo;R$ 95,80;R$ 65,80
+SKU 455;08/03/25;3;2025;Chinelo;havainas;R$ 5,00;R$ 1,00
+SKU 474;09/03/25;3;2025;Meia;Lupo;R$ 36,50;R$ 8,40
+SKU 282;10/03/25;3;2025;Boné;Hurley;R$ 27,30;R$ 10,10
+SKU 681;11/03/25;3;2025;Boné;Hurley;R$ 228,20;R$ 74,20
+SKU 639;12/03/25;3;2025;Bota;arezzo;R$ 166,70;R$ 80,70
+SKU 893;13/03/25;3;2025;Bota;Dakota;R$ 14,70;R$ 3,00
+SKU 577;14/03/25;3;2025;Camiseta; Tommy Hilfiger;R$ 123,60;R$ 121,30
+SKU 537;15/03/25;3;2025;Camisa;Ellus;R$ 148,30;R$ 134,30
+SKU 952;16/03/25;3;2025;Camisa;Ellus;R$ 37,90;R$ 7,80
+SKU 633;17/03/25;3;2025;Meia;Trifil;R$ 19,40;R$ 5,70
+SKU 692;18/03/25;3;2025;Camiseta; Tommy Hilfiger;R$ 184,00;R$ 116,60
+SKU 475;19/03/25;3;2025;Casaco;Nexybrand;R$ 353,60;R$ 186,80
+SKU 773;20/03/25;3;2025;Sandália;arezzo;R$ 28,60;R$ 4,80
+SKU 551;21/03/25;3;2025;Camiseta; Tommy Hilfiger;R$ 53,60;R$ 27,10
+SKU 761;22/03/25;3;2025;Chinelo;Dakota;R$ 23,30;R$ 7,60
+SKU 443;23/03/25;3;2025;Camisa;Ellus;R$ 171,00;R$ 130,50
+SKU 379;24/03/25;3;2025;Camisa;lacoste;R$ 36,50;R$ 8,40
+SKU 241;25/03/25;3;2025;Camisa;Aramis;R$ 64,60;R$ 19,10
+SKU 658;26/03/25;3;2025;Camisa;Aramis;R$ 82,30;R$ 31,30
+SKU 415;27/03/25;3;2025;Sapato;Dakota;R$ 32,20;R$ 9,50
+SKU 718;28/03/25;3;2025;Camisa;Aramis;R$ 200,10;R$ 126,80
+SKU 435;29/03/25;3;2025;Camisa;Aramis;R$ 63,60;R$ 18,80
+SKU 654;30/03/25;3;2025;Meia;lupo;R$ 13,30;R$ 3,70
+SKU 731;31/03/25;3;2025;Bota;Dakota;R$ 60,50;R$ 17,90
+SKU 546;01/04/25;3;2025;Chinelo;havainas;R$ 63,60;R$ 19,60
+SKU 271;02/04/25;3;2025;Camisa;Aramis;R$ 85,90;R$ 36,70
+SKU 941;03/04/25;3;2025;Bota;Dakota;R$ 14,10;R$ 3,80
+SKU 497;04/04/25;4;2025;Casaco;Nexybrand;R$ 259,50;R$ 106,60
+SKU 323;05/04/25;4;2025;Bota;Dakota;R$ 34,50;R$ 13,60
+SKU 467;06/04/25;4;2025;Sandália;Dakota;R$ 237,40;R$ 163,00
+SKU 236;07/04/25;4;2025;Sapato;Dakota;R$ 78,70;R$ 62,40
+SKU 471;08/04/25;4;2025;Casaco;Nexybrand;R$ 62,50;R$ 14,40
+SKU 231;09/04/25;4;2025;Casaco;Nexybrand;R$ 35,80;R$ 7,50
+SKU 342;10/04/25;4;2025;Chinelo;havainas;R$ 45,80;R$ 33,20
+SKU 669;11/04/25;4;2025;Meia;Lupo;R$ 75,00;R$ 57,20
+SKU 328;12/04/25;4;2025;Casaco;Nexybrand;R$ 54,10;R$ 8,60
+SKU 682;13/04/25;4;2025;Chinelo;havainas;R$ 10,40;R$ 4,40
+SKU 246;14/04/25;4;2025;Sandália;Dakota;R$ 109,90;R$ 87,10
+SKU 589;15/04/25;4;2025;Bota;arezzo;R$ 98,60;R$ 46,90
+SKU 369;16/04/25;4;2025;Chinelo;havainas;R$ 56,80;R$ 36,00
+SKU 717;17/04/25;4;2025;Boné;Hurley;R$ 64,70;R$ 13,90
+SKU 776;18/04/25;4;2025;Bota;arezzo;R$ 9,10;R$ 3,60
+SKU 659;19/04/25;4;2025;Meia;Trifil;R$ 10,20;R$ 2,90
+SKU 135;20/04/25;4;2025;Sapato;Dakota;R$ 111,10;R$ 64,60
+SKU 345;21/04/25;4;2025;Casaco;Nexybrand;R$ 43,80;R$ 18,50
+SKU 766;22/04/25;4;2025;Boné;Hurley;R$ 194,50;R$ 112,10
+SKU 497;23/04/25;4;2025;Camiseta; Tommy Hilfiger;R$ 49,40;R$ 25,10
+SKU 227;24/04/25;4;2025;Sapato;arezzo;R$ 37,50;R$ 13,30
+SKU 912;25/04/25;4;2025;Boné;Hurley;R$ 101,50;R$ 84,30
+SKU 649;26/04/25;4;2025;Camisa;Aramis;R$ 137,90;R$ 28,30
+SKU 213;27/04/25;4;2025;Camiseta; Tommy Hilfiger;R$ 26,40;R$ 7,30
+SKU 761;28/04/25;4;2025;Camisa;Aramis;R$ 73,60;R$ 12,70
+SKU 418;29/04/25;4;2025;Camisa;Aramis;R$ 97,10;R$ 35,10
+SKU 389;30/04/25;5;2025;Casaco;Nexybrand;R$ 129,50;R$ 38,30
+SKU 534;01/05/25;5;2025;Boné;Hurley;R$ 226,60;R$ 64,50
+SKU 526;02/05/25;5;2025;Chinelo;havainas;R$ 52,30;R$ 22,60
+SKU 945;03/05/25;5;2025;Bota;Dakota;R$ 111,70;R$ 49,90
+SKU 759;04/05/25;5;2025;Boné;Hurley;R$ 112,20;R$ 65,90
+SKU 557;05/05/25;5;2025;Chinelo;havainas;R$ 6,80;R$ 2,00
+SKU 328;06/05/25;5;2025;Boné;Hurley;R$ 16,80;R$ 5,60
+SKU 296;07/05/25;5;2025;Chinelo;havainas;R$ 7,40;R$ 1,80
+SKU 698;08/05/25;5;2025;Sapato;arezzo;R$ 88,60;R$ 31,20
+SKU 729;09/05/25;5;2025;Chinelo;havainas;R$ 32,60;R$ 17,20
+SKU 467;10/05/25;5;2025;Casaco;Nexybrand;R$ 43,30;R$ 12,20
+SKU 275;11/05/25;5;2025;Sandália;Dakota;R$ 40,60;R$ 5,80
+SKU 619;12/05/25;5;2025;Meia;Trifil;R$ 26,30;R$ 6,40
+SKU 639;13/05/25;5;2025;Camiseta; Tommy Hilfiger;R$ 215,50;R$ 123,40
+SKU 845;14/05/25;5;2025;Casaco;Nexybrand;R$ 148,20;R$ 43,80
+SKU 286;15/05/25;5;2025;Bota;Dakota;R$ 101,20;R$ 71,30
+SKU 965;16/05/25;5;2025;Camisa;Aramis;R$ 29,50;R$ 8,70
+SKU 636;17/05/25;5;2025;Bota;Dakota;R$ 21,10;R$ 4,10
+SKU 183;18/05/25;5;2025;Camiseta; Tommy Hilfiger;R$ 173,00;R$ 58,20
+SKU 655;19/05/25;5;2025;Meia;lupo;R$ 52,80;R$ 27,90
+SKU 573;20/05/25;5;2025;Chinelo;havainas;R$ 30,70;R$ 9,10
+SKU 826;21/05/25;5;2025;Sandália;Dakota;R$ 34,90;R$ 6,70
+SKU 565;22/05/25;5;2025;Sandália;Dakota;R$ 18,30;R$ 3,70
+SKU 986;23/05/25;5;2025;Casaco;Nexybrand;R$ 64,00;R$ 17,20
+SKU 771;24/05/25;5;2025;Casaco;Nexybrand;R$ 42,90;R$ 11,90
+SKU 746;25/05/25;5;2025;Meia;lupo;R$ 10,50;R$ 3,00
+SKU 345;26/05/25;5;2025;Bota;Dakota;R$ 96,80;R$ 41,90
+SKU 146;27/05/25;5;2025;Sapato;arezzo;R$ 48,10;R$ 11,60
+SKU 345;28/05/25;5;2025;Chinelo;havainas;R$ 30,70;R$ 6,30
+SKU 229;29/05/25;5;2025;Casaco;Nexybrand;R$ 30,00;R$ 7,90
+SKU 145;30/05/25;5;2025;Camiseta;Aramis;R$ 172,10;R$ 100,00
+SKU 526;31/05/25;6;2025;Meia;Trifil;R$ 17,30;R$ 3,10
+SKU 431;01/06/25;6;2025;Chinelo;havainas;R$ 10,10;R$ 2,30
+SKU 335;02/06/25;6;2025;Chinelo;havainas;R$ 8,60;R$ 2,60
+SKU 697;03/06/25;6;2025;Camiseta; Tommy Hilfiger;R$ 41,50;R$ 6,70
+SKU 558;04/06/25;6;2025;Camisa;Aramis;R$ 72,80;R$ 21,50
+SKU 395;05/06/25;6;2025;Meia;Trifil;R$ 7,40;R$ 2,60
+SKU 556;06/06/25;6;2025;Casaco;Nexybrand;R$ 275,60;R$ 131,00
+SKU 588;07/06/25;6;2025;Casaco;Nexybrand;R$ 27,30;R$ 6,30
+SKU 999;08/06/25;6;2025;Sapato;arezzo;R$ 27,50;R$ 7,40
+SKU 228;09/06/25;6;2025;Casaco;Nexybrand;R$ 212,00;R$ 126,00
+SKU 996;10/06/25;6;2025;Casaco;Nexybrand;R$ 267,30;R$ 130,30
+SKU 698;11/06/25;6;2025;Bota;Dakota;R$ 16,30;R$ 4,20
+SKU 979;12/06/25;6;2025;Boné;Hurley;R$ 24,20;R$ 6,20
+SKU 614;13/06/25;6;2025;Meia;Muvin;R$ 13,70;R$ 4,10
+SKU 439;14/06/25;6;2025;Sandália;Dakota;R$ 40,00;R$ 10,90
+SKU 935;15/06/25;6;2025;Casaco;Nexybrand;R$ 209,90;R$ 90,70
+SKU 194;16/06/25;6;2025;Casaco;Nexybrand;R$ 341,80;R$ 97,20
+SKU 429;17/06/25;6;2025;Camisa;Ellus;R$ 204,60;R$ 144,10
+SKU 935;18/06/25;6;2025;Sandália;Dakota;R$ 97,40;R$ 80,90
+SKU 773;19/06/25;6;2025;Bota;arezzo;R$ 55,10;R$ 22,40
+SKU 465;20/06/25;6;2025;Meia;Trifil;R$ 11,80;R$ 3,70
+SKU 235;21/06/25;6;2025;Sapato;arezzo;R$ 104,50;R$ 60,20
+SKU 881;22/06/25;6;2025;Bota;Dakota;R$ 33,20;R$ 10,90
+SKU 265;23/06/25;6;2025;Sapato;arezzo;R$ 14,80;R$ 1,80
+SKU 246;24/06/25;6;2025;Meia;lupo;R$ 13,70;R$ 3,50
+SKU 778;25/06/25;6;2025;Casaco;Nexybrand;R$ 105,10;R$ 28,00
+SKU 422;26/06/25;6;2025;Camisa;Aramis;R$ 320,50;R$ 98,80
+SKU 342;27/06/25;6;2025;Sapato;Dakota;R$ 12,60;R$ 4,20
+SKU 586;28/06/25;6;2025;Bota;arezzo;R$ 141,00;R$ 52,20
+SKU 139;29/06/25;6;2025;Camiseta;Nautica;R$ 52,90;R$ 20,10
+SKU 931;30/06/25;7;2025;Casaco;Nexybrand;R$ 134,60;R$ 26,60
+SKU 853;01/07/25;7;2025;Camisa;Aramis;R$ 55,00;R$ 17,80
+SKU 263;02/07/25;7;2025;Camisa;lacoste;R$ 39,80;R$ 12,00
+SKU 272;03/07/25;7;2025;Bota;arezzo;R$ 53,60;R$ 14,50
+SKU 538;04/07/25;7;2025;Sandália;Dakota;R$ 54,10;R$ 11,50
+SKU 598;05/07/25;7;2025;Casaco;Nexybrand;R$ 45,20;R$ 11,30
+SKU 618;06/07/25;7;2025;Meia;Trifil;R$ 42,70;R$ 10,40
+SKU 174;07/07/25;7;2025;Sandália;Dakota;R$ 28,70;R$ 4,40
+SKU 761;08/07/25;7;2025;Casaco;Nexybrand;R$ 49,00;R$ 6,10
+SKU 968;09/07/25;7;2025;Bota;Dakota;R$ 35,80;R$ 15,30
+SKU 335;10/07/25;7;2025;Bota;arezzo;R$ 47,30;R$ 18,00
+SKU 268;11/07/25;7;2025;Camiseta;Nautica;R$ 29,00;R$ 7,90
+SKU 288;12/07/25;7;2025;Camiseta;Nautica;R$ 26,10;R$ 7,20
+SKU 432;13/07/25;7;2025;Camiseta;Nautica;R$ 27,40;R$ 4,80
+SKU 823;14/07/25;7;2025;Camisa;Ellus;R$ 77,80;R$ 19,20
+SKU 661;15/07/25;7;2025;Casaco;Nexybrand;R$ 40,00;R$ 10,10
+SKU 379;16/07/25;7;2025;Sapato;Dakota;R$ 114,70;R$ 44,10
+SKU 338;17/07/25;7;2025;Sapato;arezzo;R$ 17,90;R$ 9,90
+SKU 877;18/07/25;7;2025;Camiseta;Nautica;R$ 61,20;R$ 18,10
+SKU 936;19/07/25;7;2025;Casaco;Nexybrand;R$ 35,50;R$ 5,70
+SKU 355;20/07/25;7;2025;Chinelo;havainas;R$ 69,40;R$ 31,00
+SKU 548;21/07/25;7;2025;Bota;arezzo;R$ 103,70;R$ 54,80
+SKU 973;22/07/25;7;2025;Boné;Hurley;R$ 120,30;R$ 75,10
+SKU 797;23/07/25;7;2025;Camisa;Aramis;R$ 40,00;R$ 19,20
+SKU 181;24/07/25;7;2025;Bota;Dakota;R$ 35,80;R$ 14,20
+SKU 335;25/07/25;7;2025;Boné;Hurley;R$ 95,00;R$ 67,00
+SKU 963;26/07/25;7;2025;Casaco;Nexybrand;R$ 42,10;R$ 9,70
+SKU 685;27/07/25;7;2025;Boné;Hurley;R$ 30,90;R$ 5,90
+SKU 164;28/07/25;7;2025;Chinelo;havainas;R$ 10,40;R$ 2,20
+SKU 737;29/07/25;7;2025;Camisa;Aramis;R$ 72,70;R$ 18,80
+SKU 236;30/07/25;7;2025;Meia;lupo;R$ 18,80;R$ 5,00
+SKU 524;31/07/25;8;2025;Chinelo;havainas;R$ 25,60;R$ 6,70
+SKU 932;01/08/25;8;2025;Camisa;Aramis;R$ 69,50;R$ 20,50
+SKU 959;02/08/25;8;2025;Bota;Dakota;R$ 12,00;R$ 2,80
+SKU 334;03/08/25;8;2025;Meia;lupo;R$ 8,40;R$ 2,40
+SKU 272;04/08/25;8;2025;Camisa;Aramis;R$ 261,40;R$ 151,90
+SKU 195;05/08/25;8;2025;Casaco;Nexybrand;R$ 237,00;R$ 77,00
+SKU 351;06/08/25;8;2025;Camiseta;Nautica;R$ 152,00;R$ 120,50
+SKU 219;07/08/25;8;2025;Casaco;Nexybrand;R$ 82,40;R$ 24,40
+SKU 958;08/08/25;8;2025;Casaco;Dudalina;R$ 49,90;R$ 6,70
+SKU 987;09/08/25;8;2025;Boné;Hurley;R$ 44,10;R$ 18,60
+SKU 469;10/08/25;8;2025;Casaco;Dudalina;R$ 115,00;R$ 49,10
+SKU 226;11/08/25;8;2025;Camiseta;Nautica;R$ 30,80;R$ 6,60
+SKU 164;12/08/25;8;2025;Bota; Mississipi;R$ 105,10;R$ 62,50
+SKU 683;13/08/25;8;2025;Chinelo;havainas;R$ 10,00;R$ 1,70
+SKU 651;14/08/25;8;2025;Boné;Hurley;R$ 12,50;R$ 3,70
+SKU 135;15/08/25;8;2025;Meia;Trifil;R$ 31,10;R$ 6,40
+SKU 778;16/08/25;8;2025;Boné;Hurley;R$ 16,40;R$ 4,30
+SKU 472;17/08/25;8;2025;Casaco;Dudalina;R$ 42,10;R$ 9,70
+SKU 636;18/08/25;8;2025;Casaco;Dudalina;R$ 115,60;R$ 21,80
+SKU 367;19/08/25;8;2025;Casaco;Dudalina;R$ 192,70;R$ 135,70
+SKU 559;20/08/25;8;2025;Meia;Trifil;R$ 12,10;R$ 2,80
+SKU 322;21/08/25;8;2025;Sandália;Dakota;R$ 131,30;R$ 61,70
+SKU 122;22/08/25;8;2025;Camisa;Aramis;R$ 147,70;R$ 23,50
+SKU 125;23/08/25;8;2025;Casaco;Dudalina;R$ 123,90;R$ 40,70
+SKU 425;24/08/25;8;2025;Sapato;arezzo;R$ 25,50;R$ 9,70
+SKU 144;25/08/25;8;2025;Chinelo;havainas;R$ 8,90;R$ 3,00
+SKU 511;26/08/25;8;2025;Chinelo;havainas;R$ 25,10;R$ 4,60
+SKU 144;27/08/25;8;2025;Camiseta;Nautica;R$ 110,10;R$ 66,50
+SKU 282;28/08/25;8;2025;Boné; DC Shoes;R$ 141,40;R$ 74,70
+SKU 666;29/08/25;8;2025;Camisa;Ellus;R$ 173,40;R$ 122,20
+SKU 811;30/08/25;8;2025;Meia;lupo;R$ 56,60;R$ 42,70
+SKU 233;31/08/25;9;2025;Boné; DC Shoes;R$ 119,30;R$ 90,00
+SKU 629;01/09/25;9;2025;Casaco;Dudalina;R$ 44,30;R$ 8,40
+SKU 937;02/09/25;9;2025;Camisa;Aramis;R$ 56,30;R$ 14,60
+SKU 988;03/09/25;9;2025;Camiseta;Nautica;R$ 57,30;R$ 14,80
+SKU 796;04/09/25;9;2025;Meia;Trifil;R$ 36,80;R$ 11,80
+SKU 123;05/09/25;9;2025;Chinelo;havainas;R$ 17,10;R$ 5,00
+SKU 431;06/09/25;9;2025;Meia;lupo;R$ 15,20;R$ 3,20
+SKU 492;07/09/25;9;2025;Camiseta;Nautica;R$ 103,80;R$ 28,20
+SKU 829;08/09/25;9;2025;Camisa;Aramis;R$ 45,60;R$ 17,40
+SKU 275;09/09/25;9;2025;Bota;Dakota;R$ 79,70;R$ 57,90
+SKU 861;10/09/25;9;2025;Boné; DC Shoes;R$ 34,60;R$ 16,10
+SKU 135;11/09/25;9;2025;Camiseta;Nautica;R$ 18,20;R$ 4,60
+SKU 555;12/09/25;9;2025;Casaco;Dudalina;R$ 132,80;R$ 35,70
+SKU 863;13/09/25;9;2025;Sapato;Dakota;R$ 31,10;R$ 5,00
+SKU 544;14/09/25;9;2025;Sapato;Dakota;R$ 79,40;R$ 41,90
+SKU 337;15/09/25;9;2025;Meia;Trifil;R$ 22,40;R$ 7,20
+SKU 172;16/09/25;9;2025;Meia;lupo;R$ 21,60;R$ 5,20
+SKU 829;17/09/25;9;2025;Sapato;arezzo;R$ 64,50;R$ 55,40
+SKU 341;18/09/25;9;2025;Meia;Muvin;R$ 77,60;R$ 45,10
+SKU 333;19/09/25;9;2025;Meia;Muvin;R$ 62,30;R$ 26,90
+SKU 689;20/09/25;9;2025;Camisa;Aramis;R$ 302,60;R$ 123,00
+SKU 644;21/09/25;9;2025;Sapato;Dakota;R$ 23,80;R$ 4,60
+SKU 736;22/09/25;9;2025;Camisa;Aramis;R$ 70,60;R$ 18,30
+SKU 178;23/09/25;9;2025;Camiseta;Nautica;R$ 67,60;R$ 17,50
+SKU 738;24/09/25;9;2025;Casaco;Dudalina;R$ 156,40;R$ 101,00
+SKU 269;25/09/25;9;2025;Bota; Mississipi;R$ 21,10;R$ 4,90
+SKU 836;26/09/25;9;2025;Camiseta;Nautica;R$ 214,10;R$ 95,70
+SKU 683;27/09/25;9;2025;Sapato;arezzo;R$ 77,80;R$ 70,40
+SKU 837;28/09/25;9;2025;Casaco;Dudalina;R$ 47,70;R$ 16,20
+SKU 242;29/09/25;9;2025;Bota; Mississipi;R$ 63,90;R$ 15,10
+SKU 325;30/09/25;10;2025;Chinelo;arezzo;R$ 38,50;R$ 24,90
+SKU 721;01/10/25;10;2025;Casaco;Dudalina;R$ 249,50;R$ 83,90
+SKU 456;02/10/25;10;2025;Meia;Muvin;R$ 12,50;R$ 3,60
+SKU 756;03/10/25;10;2025;Sapato;Dakota;R$ 13,00;R$ 3,30
+SKU 459;04/10/25;10;2025;Sapato;Dakota;R$ 9,80;R$ 2,90
+SKU 254;05/10/25;10;2025;Camiseta;Nautica;R$ 66,20;R$ 21,80
+SKU 491;06/10/25;10;2025;Camisa;Aramis;R$ 201,80;R$ 138,60
+SKU 857;07/10/25;10;2025;Camiseta;Nautica;R$ 112,80;R$ 82,00
+SKU 667;08/10/25;10;2025;Camisa;Aramis;R$ 127,80;R$ 49,10
+SKU 977;09/10/25;10;2025;Sapato;Dakota;R$ 81,40;R$ 30,10
+SKU 793;10/10/25;10;2025;Boné; DC Shoes;R$ 108,10;R$ 51,40
+SKU 515;11/10/25;10;2025;Camisa;Ellus;R$ 190,10;R$ 100,40
+SKU 296;12/10/25;10;2025;Bota; Mississipi;R$ 150,10;R$ 66,10
+SKU 711;13/10/25;10;2025;Bota;Dakota;R$ 23,70;R$ 3,80
+SKU 927;14/10/25;10;2025;Boné; DC Shoes;R$ 65,40;R$ 14,50
+SKU 268;15/10/25;10;2025;Sandália;arezzo;R$ 178,10;R$ 75,30
+SKU 459;16/10/25;10;2025;Camiseta;Nautica;R$ 39,00;R$ 4,80
+SKU 158;17/10/25;10;2025;Camisa;Aramis;R$ 76,20;R$ 20,50
+SKU 479;18/10/25;10;2025;Meia;Muvin;R$ 12,40;R$ 3,40
+SKU 384;19/10/25;10;2025;Bota; Mississipi;R$ 129,50;R$ 68,40
+SKU 152;20/10/25;10;2025;Casaco; Kailash;R$ 211,80;R$ 111,90
+SKU 381;21/10/25;10;2025;Boné; DC Shoes;R$ 123,40;R$ 65,20
+SKU 545;22/10/25;10;2025;Sapato;arezzo;R$ 18,20;R$ 5,40
+SKU 255;23/10/25;10;2025;Sapato;arezzo;R$ 16,90;R$ 2,70
+SKU 547;24/10/25;10;2025;Sandália;Dakota;R$ 41,10;R$ 7,70
+SKU 459;25/10/25;10;2025;Casaco; Kailash;R$ 45,80;R$ 11,50
+SKU 792;26/10/25;10;2025;Casaco;Columbia;R$ 73,40;R$ 19,70
+SKU 291;27/10/25;10;2025;Boné; DC Shoes;R$ 39,30;R$ 19,90
+SKU 961;28/10/25;10;2025;Sapato;Aramis;R$ 60,00;R$ 19,20
+SKU 512;29/10/25;10;2025;Camisa;Aramis;R$ 290,20;R$ 129,70
+SKU 258;30/10/25;10;2025;Camiseta;Nautica;R$ 194,40;R$ 133,50
+SKU 871;31/10/25;11;2025;Camisa;Aramis;R$ 116,60;R$ 29,20
+SKU 763;01/11/25;11;2025;Camiseta;Nautica;R$ 39,00;R$ 10,10
+SKU 358;02/11/25;11;2025;Camiseta;Nautica;R$ 28,40;R$ 10,70
+SKU 568;03/11/25;11;2025;Meia;Muvin;R$ 24,90;R$ 11,00
+SKU 332;04/11/25;11;2025;Camisa;Aramis;R$ 138,00;R$ 40,80
+SKU 899;05/11/25;11;2025;Meia;Trifil;R$ 7,80;R$ 2,20
+SKU 344;06/11/25;11;2025;Camiseta;Nautica;R$ 80,50;R$ 16,70
+SKU 982;07/11/25;11;2025;Sandália;Aramis;R$ 24,20;R$ 4,90
+SKU 141;08/11/25;11;2025;Chinelo;Dakota;R$ 7,70;R$ 2,40
+SKU 777;09/11/25;11;2025;Camisa;Aramis;R$ 66,20;R$ 22,40
+SKU 332;10/11/25;11;2025;Meia;lupo;R$ 10,80;R$ 2,70
+SKU 315;11/11/25;11;2025;Chinelo;havainas;R$ 38,00;R$ 28,70
+SKU 886;12/11/25;11;2025;Camisa;Aramis;R$ 268,60;R$ 141,90
+SKU 525;13/11/25;11;2025;Sapato;Dakota;R$ 17,50;R$ 8,10
+SKU 582;14/11/25;11;2025;Camisa;Aramis;R$ 73,20;R$ 21,70
+SKU 218;15/11/25;11;2025;Sapato;Aramis;R$ 73,60;R$ 66,70
+SKU 826;16/11/25;11;2025;Camiseta;Nautica;R$ 176,30;R$ 124,20
+SKU 289;17/11/25;11;2025;Chinelo;Dakota;R$ 28,40;R$ 10,90
+SKU 224;18/11/25;11;2025;Meia;Muvin;R$ 26,60;R$ 6,60
+SKU 348;19/11/25;11;2025;Camiseta;Nautica;R$ 85,30;R$ 23,30
+SKU 947;20/11/25;11;2025;Casaco;Columbia;R$ 45,60;R$ 15,20
+SKU 371;21/11/25;11;2025;Casaco;Columbia;R$ 67,60;R$ 8,40
+SKU 121;22/11/25;11;2025;Bota; Mississipi;R$ 62,20;R$ 15,30
+SKU 484;23/11/25;11;2025;Camiseta;Nautica;R$ 176,30;R$ 62,10
+SKU 516;24/11/25;11;2025;Bota; Mississipi;R$ 30,40;R$ 5,90
+SKU 397;25/11/25;11;2025;Camisa;Aramis;R$ 107,40;R$ 31,80
+SKU 768;26/11/25;11;2025;Sapato;Aramis;R$ 13,80;R$ 4,80
+SKU 319;27/11/25;11;2025;Chinelo;Dakota;R$ 49,30;R$ 17,40
+SKU 281;28/11/25;11;2025;Boné; DC Shoes;R$ 190,80;R$ 109,20
+SKU 367;29/11/25;11;2025;Sapato;Dakota;R$ 20,00;R$ 4,60
+SKU 698;30/11/25;11;2025;Bota; Mississipi;R$ 13,50;R$ 4,20
+SKU 791;01/12/25;11;2025;Bota;Dakota;R$ 22,20;R$ 5,20
+SKU 664;02/12/25;11;2025;Boné; DC Shoes;R$ 78,70;R$ 17,50
+SKU 655;03/12/25;11;2025;Camisa;Aramis;R$ 84,00;R$ 30,40
+SKU 143;04/12/25;11;2025;Casaco;Columbia;R$ 182,30;R$ 77,00
+SKU 433;05/12/25;11;2025;Camiseta;Nautica;R$ 50,10;R$ 27,60
+SKU 794;06/12/25;11;2025;Sapato;Dakota;R$ 20,60;R$ 4,80
+SKU 972;07/12/25;12;2025;Camisa;Aramis;R$ 47,80;R$ 11,00
+SKU 967;08/12/25;12;2025;Boné; DC Shoes;R$ 89,50;R$ 53,20
+SKU 249;09/12/25;12;2025;Boné; DC Shoes;R$ 21,50;R$ 5,40
+SKU 286;10/12/25;12;2025;Camisa;Aramis;R$ 46,30;R$ 6,80
+SKU 116;11/12/25;12;2025;Sandália;Dakota;R$ 37,70;R$ 5,50
+SKU 635;12/12/25;12;2025;Sapato;Aramis;R$ 17,20;R$ 4,30
+SKU 516;13/12/25;12;2025;Chinelo;Dakota;R$ 11,60;R$ 5,60
+SKU 713;14/12/25;12;2025;Bota; Mississipi;R$ 26,30;R$ 5,60
+SKU 914;15/12/25;12;2025;Sapato;Dakota;R$ 37,40;R$ 15,80
+SKU 329;16/12/25;12;2025;Boné; DC Shoes;R$ 153,40;R$ 99,00
+SKU 982;17/12/25;12;2025;Casaco;Columbia;R$ 77,90;R$ 28,20
+SKU 655;18/12/25;12;2025;Camisa;Aramis;R$ 102,50;R$ 35,90
+SKU 382;19/12/25;12;2025;Chinelo;havainas;R$ 44,30;R$ 23,40
+SKU 169;20/12/25;12;2025;Bota; Mississipi;R$ 93,30;R$ 61,60
+SKU 375;21/12/25;12;2025;Camiseta;Nautica;R$ 26,40;R$ 6,70
+SKU 233;22/12/25;12;2025;Camiseta;Nautica;R$ 208,40;R$ 59,30
+SKU 994;23/12/25;12;2025;Bota; Mississipi;R$ 106,80;R$ 69,00
+SKU 711;24/12/25;12;2025;Chinelo;havainas;R$ 9,40;R$ 2,20
+SKU 137;25/12/25;12;2025;Camiseta;Nautica;R$ 155,80;R$ 98,80
+SKU 349;26/12/25;12;2025;Sapato;Aramis;R$ 10,20;R$ 3,70
+SKU 613;27/12/25;12;2025;Casaco;Columbia;R$ 36,40;R$ 8,40
+SKU 182;28/12/25;12;2025;Casaco;Columbia;R$ 205,30;R$ 78,90
+SKU 334;29/12/25;12;2025;Sandália;Dakota;R$ 16,60;R$ 4,80
+SKU 395;30/12/25;12;2025;Camisa;Aramis;R$ 46,80;R$ 11,90
